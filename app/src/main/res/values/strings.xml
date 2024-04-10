@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GithubApp2</string>
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+    <string name="search_bar_hint">Who Are you looking for?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_found">not found</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="setting">Setting</string>
+    <string name="add_favorite_user">Add Favorite User</string>
+
+    <string name="delete_from_fav">Deleted from favorite</string>
+    <string name="add_to_fav">Added to Favorite</string>
+    <string name="you_dont_have_favorite_user">You dont have favorite User</string>
+    <string name="favorite">Favorite</string>
+    <string name="github_user_app">Github user app</string>
+</resources>
